@@ -14,7 +14,7 @@ url: "https://jennifer-pompa.github.io" # the base hostname & protocol for your 
 # phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
